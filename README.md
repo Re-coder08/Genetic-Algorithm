@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-A simple Genetic Algorithm using Lists.
+A simple Genetic Algorithm using Numpy arrays.
